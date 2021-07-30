@@ -1,4 +1,6 @@
-﻿OOP Project
+﻿video of the game - https://youtu.be/RueEIrjSXPI
+
+OOP Project
 __Head_Soccer__
 //----------------------------------------------------------------------------
 2. Creators:
