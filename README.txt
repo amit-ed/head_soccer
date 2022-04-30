@@ -3,9 +3,8 @@
 OOP Project
 __Head_Soccer__
 //----------------------------------------------------------------------------
-2. Creators:
-a- Amit Ein-Dor   ID 208625681
-b- Adi Gutman     ID 318166600
+2. Creator:
+Amit Ein-Dor   ID 208625681
 //----------------------------------------------------------------------------
 3. General ideas and goals of the project:
 A game which every player need to select his character and play against the other player.
@@ -47,7 +46,7 @@ Classes:
 -Menu holds a vector of tuple which holds every button and his command.
 //----------------------------------------------------------------------------
 6. Algorithems that are worth mentioning:
-- Menu : using a Command pattern, we were able to create a generic menu that have
+- Menu : using a Command pattern, I was able to create a generic menu that have
 	have multiple screens and can move back and forth between them.
 - CollisionHandling : set every pair of object (inside the map) a unique function 
 	and call that function when they collide.
@@ -55,8 +54,8 @@ Classes:
 	and create an object using the set function sent in the begginning.
 	registering new types is very easy because its generic.
 - Singelton : load all the external files needed for the program in the compiling stage,
-	in that way we save alot of cpu.
-- to call the CollisionHandling we use STL-like algorithm to run over all pairs
+	in that way I saved alot of cpu.
+- to call the CollisionHandling I used STL-like algorithm to run over all pairs
 - all Player keys using Template to avoid duplication of code and the same thing in the menu.
 //----------------------------------------------------------------------------
 7. Known bugs:
