@@ -42,6 +42,7 @@ using the methods learned in class.</p>
 -Menu holds a vector of tuple which holds every button and his command.
 //----------------------------------------------------------------------------
 <h2>Algorithems that are worth mentioning</h2>
+
 * Menu : using the Command design pattern, I was able to create a generic menu that have
 	have multiple screens and can move back and forth between them. 
 * <p>CollisionHandling : set every pair of object (inside the map) a unique function 
@@ -58,5 +59,9 @@ using the methods learned in class.</p>
 <p> none but if you find any please contact us</p>
 //----------------------------------------------------------------------------
 8. Other notes:
-<p>you have to put a "map.txt" file that contain the map.</p>
-<p>the log.txt file incase of a failure will be opened inside the out file.</p>
+<ul>
+  <li>you have to put a "map.txt" file that contain the map.</li>
+  <li>the log.txt file incase of a failure will be opened inside the out file.</li>
+</ul>
+<!-- <p>you have to put a "map.txt" file that contain the map.</p>
+<p>the log.txt file incase of a failure will be opened inside the out file.</p> -->
