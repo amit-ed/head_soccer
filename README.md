@@ -29,7 +29,7 @@ using the methods learned in class.</p>
 	<li><p>MovingObject - a class that inherit from it is an object that can move: all types of characters, ball</p></li>
 	<li><p>StaticObject - a class that inherit from it is an object that can't move: foot, yeti, goal</p></li>
 </ul>
-//----------------------------------------------------------------------------
+
 <h2> Data structures </h2>
 <ul>
 	<li><p>Board make a vector of Objects and print it each round.</p></li>
