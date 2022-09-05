@@ -1,22 +1,21 @@
 ﻿video of the game - https://youtu.be/RueEIrjSXPI
 
 <h1>Head Soccer</h1>
-//----------------------------------------------------------------------------
-2. Creator:
-Amit Ein-Dor   ID 208625681
-//----------------------------------------------------------------------------
-3. General ideas and goals of the project:
-A game which every player need to select his character and play against the other player.
-the player who scored most goals wins the game.
 
-the problem is making the game movement smooth and real life feeling, 
+<h2>By Amit Ein-Dor and Adi Gutman</h2>
+<h2>General ideas and goals of the project</h2>
+<p>A game which every player need to select his character and play against the other player.
+the player who scored most goals wins the game.</p>
+
+<p>the problem is making the game movement smooth and real life feeling, 
  adding many options for the player, challenging fun and friendly gameplay,
-using the methods learned in class.
-//----------------------------------------------------------------------------
-4. Files:
-all files with no description holds the ctrs and methods from headers
--CMakeLists.txt - Cmake file to all src files.
-Classes:
+using the methods learned in class.</p>
+
+<h2>Files</h2>
+<p>all files with no description holds the ctrs and methods from headers
+-CMakeLists.txt - Cmake file to all src files.</p>
+
+<h2>Classes</h2>
 -main -main c++
 -Controller - the operative class
 -Object - any kind of objects printed on the screen inherit from this basic object class.
