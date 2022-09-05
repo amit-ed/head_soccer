@@ -1,4 +1,4 @@
-﻿video of the game - https://youtu.be/RueEIrjSXPI
+[![HEAD SOCCER GAME](https://img.youtube.com/vi/RueEIrjSXPI/0.jpg)](https://www.youtube.com/watch?v=RueEIrjSXPI "Everything Is AWESOME")
 
 <h1>Head Soccer</h1>
 
