@@ -1,6 +1,6 @@
-[![HEAD SOCCER GAME](https://img.youtube.com/vi/RueEIrjSXPI/0.jpg)](https://www.youtube.com/watch?v=RueEIrjSXPI "Everything Is AWESOME")
+<h1>Head Soccer Game</h1>
 
-<h1>Head Soccer</h1>
+[![HEAD SOCCER GAME](https://img.youtube.com/vi/RueEIrjSXPI/0.jpg)](https://www.youtube.com/watch?v=RueEIrjSXPI "Everything Is AWESOME")
 
 <h2>By Amit Ein-Dor and Adi Gutman</h2>
 <h2>General ideas and goals of the project</h2>
@@ -43,22 +43,22 @@ using the methods learned in class.</p>
 -Factory hold a map of type of object and his function.
 -Menu holds a vector of tuple which holds every button and his command.
 //----------------------------------------------------------------------------
-6. Algorithems that are worth mentioning:
-- Menu : using a Command pattern, I was able to create a generic menu that have
-	have multiple screens and can move back and forth between them.
-- CollisionHandling : set every pair of object (inside the map) a unique function 
-	and call that function when they collide.
-- Factory : create every type registered in a static way in the compiling,
+<h2>Algorithems that are worth mentioning</h2>
+-Menu : using the Command design pattern, I was able to create a generic menu that have
+	have multiple screens and can move back and forth between them. 
+-<p>CollisionHandling : set every pair of object (inside the map) a unique function 
+	and call that function when they collide.</p>
+-<p>Factory : create every type registered in a static way in the compiling,
 	and create an object using the set function sent in the begginning.
-	registering new types is very easy because its generic.
-- Singelton : load all the external files needed for the program in the compiling stage,
-	in that way I saved alot of cpu.
-- to call the CollisionHandling I used STL-like algorithm to run over all pairs
-- all Player keys using Template to avoid duplication of code and the same thing in the menu.
+	registering new types is very easy because its generic.</p>
+-<p>Singelton : load all the external files needed for the program in the compiling stage,
+	in that way I saved alot of cpu.</p>
+-<p>to call the CollisionHandling I used STL-like algorithm to run over all pairs</p>
+-<p>all Player keys using Template to avoid duplication of code and the same thing in the menu.</p>
 //----------------------------------------------------------------------------
-7. Known bugs:
-- none
+<h2>Known bugs</2>
+<p> none but if you find any please contact us</p>
 //----------------------------------------------------------------------------
 8. Other notes:
-- you have to put a "map.txt" file that contain the map.
-- the log.txt file incase of a failure will be opened inside the out file.
+<p>you have to put a "map.txt" file that contain the map.</p>
+<p>the log.txt file incase of a failure will be opened inside the out file.</p>
